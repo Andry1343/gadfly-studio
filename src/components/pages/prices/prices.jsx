@@ -10,7 +10,7 @@ export const Prices = () => {
         color: '#010101',
       }}
     >
-      <h1>Prices</h1>
+      <h1>Ціни та послуги</h1>
     </div>
   );
 };

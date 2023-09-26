@@ -1,22 +1,22 @@
-import { Layout } from './layout/layout';
 import { lazy } from 'react';
-//import { Home } from './pages/home/home';
 import { Routes, Route } from 'react-router-dom';
-//import { Prices } from './pages/prices/prices';
 import { NotFound } from './pages/notFound/notFound';
+import Contacts from './pages/contacts/contacts';
 
+const Layout = lazy(() => import('./layout/layout'));
 const Home = lazy(() => import('./pages/home/home'));
 const Prices = lazy(() => import('./pages/prices/prices'));
+
 
 export const App = () => {
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
-        <Route path="/home" element={<Home />} />
+      <Route index element={<Home />} />
         <Route path="/prices" element={<Prices />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path="/contacts" element={<Contacts />} />
       </Route>
-      
+      <Route path="*" element={<NotFound />} />
     </Routes>
     
   );

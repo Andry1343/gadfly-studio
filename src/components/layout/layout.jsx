@@ -8,14 +8,10 @@ export const Layout = () => {
       <header>
         <nav>
           <NavLink to="/" end>Home</NavLink>
-          <NavLink to="prices">Prices</NavLink>
+          <NavLink to="prices">Ціни</NavLink>
+          <NavLink to="contacts">Контакти</NavLink>
         </nav>
       </header>
-
-      {/* <footer>
-        <h1>Foter</h1>
-      </footer> */}
-
       <Suspense fallback={<div>Loading...</div>}>
       <Outlet />
       </Suspense>
@@ -23,3 +19,5 @@ export const Layout = () => {
     </>
   );
 };
+
+export default Layout;

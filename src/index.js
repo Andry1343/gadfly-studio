@@ -5,8 +5,8 @@ import { App } from 'components/App';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode basename="/gadfly-studio">
-    <BrowserRouter>
+  <React.StrictMode>
+    <BrowserRouter basename="/gadfly-studio">
       <App />
     </BrowserRouter>
   </React.StrictMode>

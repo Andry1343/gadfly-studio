@@ -1,4 +1,4 @@
-export const NotFound = () => {
+export const Contacts = () => {
     return (
       <div
         style={{
@@ -10,9 +10,9 @@ export const NotFound = () => {
           color: '#010101',
         }}
       >
-        <h1>NotFound</h1>
+        <h1>Контакти</h1>
       </div>
     );
 }
 
-export default NotFound;
+export default Contacts;
