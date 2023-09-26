@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgadfly=self.webpackChunkgadfly||[]).push([[135],{135:function(e,n,t){t.r(n),t.d(n,{Prices:function(){return r}});var i=t(184),r=function(){return(0,i.jsx)("div",{style:{height:"100vh",display:"flex",justifyContent:"center",alignItems:"center",fontSize:20,color:"#010101"},children:(0,i.jsx)("h1",{children:"Prices"})})};n.default=r}}]);
-//# sourceMappingURL=135.9e730d14.chunk.js.map
