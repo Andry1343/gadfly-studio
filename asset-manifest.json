@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/gadfly-studio/static/css/main.3c0c9886.css",
-    "main.js": "/gadfly-studio/static/js/main.c610df89.js",
-    "static/js/364.518551a6.chunk.js": "/gadfly-studio/static/js/364.518551a6.chunk.js",
-    "static/js/411.82c6806d.chunk.js": "/gadfly-studio/static/js/411.82c6806d.chunk.js",
+    "main.css": "/gadfly-studio/static/css/main.493bacf1.css",
+    "main.js": "/gadfly-studio/static/js/main.deb7ad78.js",
+    "static/css/502.47dd4d3b.chunk.css": "/gadfly-studio/static/css/502.47dd4d3b.chunk.css",
+    "static/js/502.7b527990.chunk.js": "/gadfly-studio/static/js/502.7b527990.chunk.js",
+    "static/js/411.8b60d7ea.chunk.js": "/gadfly-studio/static/js/411.8b60d7ea.chunk.js",
     "static/js/135.c5cd1f89.chunk.js": "/gadfly-studio/static/js/135.c5cd1f89.chunk.js",
     "index.html": "/gadfly-studio/index.html",
-    "main.3c0c9886.css.map": "/gadfly-studio/static/css/main.3c0c9886.css.map",
-    "main.c610df89.js.map": "/gadfly-studio/static/js/main.c610df89.js.map",
-    "364.518551a6.chunk.js.map": "/gadfly-studio/static/js/364.518551a6.chunk.js.map",
-    "411.82c6806d.chunk.js.map": "/gadfly-studio/static/js/411.82c6806d.chunk.js.map",
+    "main.493bacf1.css.map": "/gadfly-studio/static/css/main.493bacf1.css.map",
+    "main.deb7ad78.js.map": "/gadfly-studio/static/js/main.deb7ad78.js.map",
+    "502.47dd4d3b.chunk.css.map": "/gadfly-studio/static/css/502.47dd4d3b.chunk.css.map",
+    "502.7b527990.chunk.js.map": "/gadfly-studio/static/js/502.7b527990.chunk.js.map",
+    "411.8b60d7ea.chunk.js.map": "/gadfly-studio/static/js/411.8b60d7ea.chunk.js.map",
     "135.c5cd1f89.chunk.js.map": "/gadfly-studio/static/js/135.c5cd1f89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c0c9886.css",
-    "static/js/main.c610df89.js"
+    "static/css/main.493bacf1.css",
+    "static/js/main.deb7ad78.js"
   ]
 }
